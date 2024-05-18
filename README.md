@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics, Data Science and Business Intelligence.
 - 🌱 I’m currently learning Python, R, SQL, Big Data and Machine Learning concepts
 - 💞️ I’m looking to collaborate on building predictive models based on Python, building dashboards on Tableau.
-- 📫 You can reach out to me on https://www.linkedin.com/in/prashant-raina-837783ab/ or rainapra92@gmail.com
+- 📫 You can reach out to me on https://www.linkedin.com/in/rainapra92/ or rainapra92@gmail.com
 
 <!---
 rainapra/rainapra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
